@@ -1,0 +1,23 @@
+{
+  "name": "find-the-treasure",
+  "version": "1.0.0",
+  "description": "Juego JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GloryRojas/Find-the-treasure.git"
+  },
+  "keywords": [
+    "JS",
+    "game"
+  ],
+  "author": "Glory Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GloryRojas/Find-the-treasure/issues"
+  },
+  "homepage": "https://github.com/GloryRojas/Find-the-treasure#readme"
+}
